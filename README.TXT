@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Bank represents the Bank ATM 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE:ATM GUI test 
+PURPOSE OF PROJECT:final project for csc175 course 
+VERSION or DATE:2019
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS:Haidar @ Waleed 
 USER INSTRUCTIONS:
