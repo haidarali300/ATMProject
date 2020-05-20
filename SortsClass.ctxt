@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SortsClass
+comment0.text=\n\ \ This\ class\ provides\ the\ bubble\ sort\ method\ \n
+comment1.params=theArray\ n
+comment1.target=void\ bubbleSort(java.lang.Comparable[],\ int)
+numComments=2

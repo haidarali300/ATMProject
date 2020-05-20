@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=owner\ accountNum\ initial
+comment1.target=Account(java.lang.String,\ long,\ Money)
+comment10.params=
+comment10.target=long\ getAcctNumber()
+comment10.text=\n\ getter\ of\ account\ number\n\ @return\ account\ number\n
+comment11.params=
+comment11.target=java.lang.String\ getName()
+comment11.text=\n\ get\ name\ of\ account\n\ @return\ the\ name\ of\ account\n
+comment2.params=owner\ accountNum
+comment2.target=Account(java.lang.String,\ long)
+comment3.params=theCents
+comment3.target=Money\ deposit(long)
+comment4.params=theCents\ fee
+comment4.target=Money\ withdraw(long,\ int)
+comment5.params=acctToWithdrawFrom\ amountToTransfer\ fee
+comment5.target=void\ transfer(Account,\ long,\ int)
+comment6.params=
+comment6.target=Money\ addInterest()
+comment7.params=
+comment7.target=Money\ getBalance()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=o
+comment9.target=int\ compareTo(Account)
+numComments=12

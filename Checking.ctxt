@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Checking
+comment0.text=\n\ Write\ a\ description\ of\ class\ Checking\ here.\n\n\ @author\ (Haidar\ &&\ Waleed)\n\ @version\ (2019)\n
+comment1.params=theName\ theAccNumber\ theBalance\ max
+comment1.target=Checking(java.lang.String,\ long,\ Money,\ Money)
+comment2.params=theCents\ fee
+comment2.target=Money\ withdraw(long,\ int)
+comment3.params=
+comment3.target=Money\ getOverdraftMaximum()
+comment3.text=\n\ get\ overdraft\ maximum\n\ @return\ overdraft\ maximum\n
+numComments=4

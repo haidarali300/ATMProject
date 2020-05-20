@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=OutputManager
+comment1.params=accounts\ writer
+comment1.target=void\ writeAccountTo(Account[],\ java.io.PrintWriter)
+numComments=2

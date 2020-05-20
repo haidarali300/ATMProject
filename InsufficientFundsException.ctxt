@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InsufficientFundsException
+comment0.text=\n\ Exception\ thrown\ when\ there\ is\ insufficient\ fund\ to\ withdraw\n\n
+comment1.params=s
+comment1.target=InsufficientFundsException(java.lang.String)
+numComments=2

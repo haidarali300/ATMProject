@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BankATMDriver
+comment0.text=\n\ BankATMDriver\ is\ the\ driver\n\ that\ allows\ users\ to\ login,\ check\ balance,\ deposit,\ withdraw\n\ ...\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ main\ method\ to\ start\ Java\ application\n\ @param\ args\ main\ arguments\n
+comment2.params=
+comment2.target=java.lang.Long\ menu()
+comment2.text=\n\ display\ menu\ and\ return\ user\ selection\n\ @return\ user\ selection\n
+comment3.params=message
+comment3.target=java.lang.Long\ readLong(java.lang.String)
+comment3.text=\n\ read\ a\ long\ number\ from\ standard\ input\n\ @param\ message\ message\n\ @return\ Long\ or\ null\ if\ invalid\ input\n
+numComments=4
